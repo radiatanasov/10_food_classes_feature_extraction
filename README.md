@@ -145,18 +145,18 @@ The performance of both models was evaluated using accuracy and loss metrics on 
 #### ResNetV2 Results
 
 Epoch 5/5
-Train Accuracy: 91.47%
-Validation Accuracy: 77.48%
-Train Loss: 0.3770
-Validation Loss: 0.6717
+- Train Accuracy: 91.47%
+- Validation Accuracy: 77.48%
+- Train Loss: 0.3770
+- Validation Loss: 0.6717
 
 #### EfficientNet Results
 
 Epoch 5/5
-Train Accuracy: 83.47%
-Validation Accuracy: 75.40%
-Train Loss: 0.5535
-Validation Loss: 0.7326
+- Train Accuracy: 83.47%
+- Validation Accuracy: 75.40%
+- Train Loss: 0.5535
+- Validation Loss: 0.7326
 
 # Contact
 
